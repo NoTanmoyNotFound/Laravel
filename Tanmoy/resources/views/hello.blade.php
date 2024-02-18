@@ -1,1 +1,1 @@
-<h1>Hehe boi</h1>
+<h1>This is hello page</h1>
